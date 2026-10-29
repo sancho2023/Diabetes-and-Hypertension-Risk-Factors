@@ -1,4 +1,4 @@
-# Diabetes and Hypertension Risk Factors: Tete, Mozambique
+# Diabetes and Hypertension Risk Factors
 
 R analysis of a cross-sectional survey on non-communicable diseases (NCDs). It estimates the prevalence of
 diabetes, pre-diabetes, hypertension and excess weight, and identifies associated lifestyle and family-history factors.
